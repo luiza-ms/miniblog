@@ -1,0 +1,11 @@
+Olá professor, tudo bem ?
+ Este é o nosso backend do mini blog.
+
+Alunas: Maria Luiza e Bruna Pioner
+
+Link Github: https://github.com/luiza-ms/miniblog.git
+
+Antes de excutar altere essas trêns configurações no (.env)
+DB_USER= seu usuário
+DB_PASSWORD= sua senha
+DB_HOST= seu IP
